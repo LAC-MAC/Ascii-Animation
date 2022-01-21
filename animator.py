@@ -26,7 +26,3 @@ animator(filePaths ,delay = 0.02,  repeatNum = 1)
 
 
 
-#nano \.zshrc
-#Do a blog post about you stumbled across it
-#how people can use figlet or lolcat
-#then show this script and people can make some basic ascci animations that can also be added to the bash file
